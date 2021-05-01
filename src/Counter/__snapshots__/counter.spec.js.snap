@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Count component Counter handlers should change count value to plus 1 1`] = `
+<div>
+  <div>
+    1
+  </div>
+  <button
+    className="plusOneBtn"
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    className="resetBtn"
+    onClick={[Function]}
+  >
+    Reset to 10
+  </button>
+</div>
+`;
+
+exports[`Count component should render Counter component 1`] = `
+<div>
+  <div>
+    0
+  </div>
+  <button
+    className="plusOneBtn"
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <button
+    className="resetBtn"
+    onClick={[Function]}
+  >
+    Reset to 10
+  </button>
+</div>
+`;
