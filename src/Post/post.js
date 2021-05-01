@@ -27,7 +27,7 @@ Post.propTypes = {
 };
 
 Post.defaultProps = {
-  author: 'Yauhen',
+  author: 'Nikita',
   created_at: '',
   num_comments: 0,
   title: 'Here should be a title',
